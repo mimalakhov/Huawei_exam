@@ -1,0 +1,17 @@
+C:\Users\mimal\source\repos\exam\bin\Debug\exam.exe.config
+C:\Users\mimal\source\repos\exam\bin\Debug\exam.exe
+C:\Users\mimal\source\repos\exam\bin\Debug\exam.pdb
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.Exam.resources
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.StartForm.resources
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.Properties.Resources.resources
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.exe
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.pdb
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.ResultForm.resources
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.addQuestionForm.resources
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.PasswordForm.resources
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.Forms.DeleteQuestionForm.resources
+C:\Users\mimal\source\repos\exam\obj\Debug\exam.Forms.BlockQuestionForm.resources
